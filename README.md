@@ -1,7 +1,7 @@
 ### Métodos Numéricos em Python
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-__(Ainda em desenvolvimento, onde o encerramento dependerá da disponibilidade do autor)__
+___(Ainda em desenvolvimento, onde o encerramento dependerá da disponibilidade do autor)___
 
 Este reposítório é destinado aos __graduandos em Matemática e Engenharia__ que estejam cursando as disciplinas de __Cálculo Numérico Básico__ e __Cálculo Numérico Aplicado__.
 
