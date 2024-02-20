@@ -16,7 +16,7 @@ Entre os assuntos selecionados, temos:
 * Diferenciação Numérica
 * Soluções para Equações Diferenciais Ordinárias
 
-### Autor
+## Autor
 ___Caio Nicácio___ - Estudante de Engenharia Mecânica pela Universidade Estadual do Maranhão (UEMA) e pesquisador com foco em visão computacional e simulação numérica.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-m-nicacio)
