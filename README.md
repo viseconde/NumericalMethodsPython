@@ -17,6 +17,6 @@ Entre os assuntos selecionados, temos:
 * Soluções para Equações Diferenciais Ordinárias
 
 ## Autor
-___Caio Nicácio___ - Estudante de Engenharia Mecânica pela Universidade Estadual do Maranhão (UEMA) e pesquisador com foco em visão computacional e simulação numérica.
+___Caio Nicácio___ - Estudante de Engenharia Mecânica pela Universidade Estadual do Maranhão (UEMA) e aluno-pesquisador com foco em visão computacional e simulação numérica.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-m-nicacio)
