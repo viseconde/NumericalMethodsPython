@@ -8,9 +8,8 @@ Segue o fluxograma que representa o processo de solução de um problema analít
 ``` mermaid
     flowchart LR
         A[Problema analítico] -- Modelagem --> B[Modelo matemático];
-        B -- resolução --> C[Solução]
+        B -- Resolução --> C[Solução]
 ```
-
 * __Modelagem__: obtenção do modelo mmatemático que descreve o comportamento do problema analíco.
 * __Resolução__: obtenção da solução do modelo matemático via métodos numéricos.
 
@@ -19,3 +18,6 @@ Segue o fluxograma que representa o processo de solução de um problema analít
  A precisão dos dados obtidos exerce influência sobre a confiabilidade da resposta adquirida.
  Deve-se, ter em emnte quue a precisão do resultado não é apenas função do __modelo matemático__, mas também da precisão dos __dados de entrada__.
  ## 1.2 Erros de resolução
+Para a solução de modelos matemáticos, muitas vezes é necessário o uso de instrumentos de cálculo que, por o conta de sua natureza de funcionamento, realizam certas __aproximações__. Tais aproximações podem gerar __erros__.
+
+Isso ocorre por motivos de ___conversão de um sistema numérico__, de binário para decimal, ou __arrendondamento__ ou __truncamento__.
