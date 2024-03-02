@@ -5,11 +5,12 @@ A diferença é chamada de __erro__, inerente ao processo e, para a maioria da v
 Dessa forma, o usuário deve estar munido das noções sobre a fonte de erros para o controlá-los ou, em condições ideais, evitá-los.
 Segue o fluxograma que representa o processo de solução de um problema analítico, por meio da aplicação de métodos numéricos.
 
-''' mermaid
-    flowchart TD
+``` mermaid
+    flowchart LR
         A[Problema analítico] -- Modelagem --> B[Modelo matemático];
-        B -- resolução --> C[Solução];
-'''
+        B -- resolução --> C[Solução]
+```
+
 * __Modelagem__: obtenção do modelo mmatemático que descreve o comportamento do problema analíco.
 * __Resolução__: obtenção da solução do modelo matemático via métodos numéricos.
 
