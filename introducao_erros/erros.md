@@ -20,4 +20,14 @@ Segue o fluxograma que representa o processo de solução de um problema analít
  ## 1.2 Erros de resolução
 Para a solução de modelos matemáticos, muitas vezes é necessário o uso de instrumentos de cálculo que, por o conta de sua natureza de funcionamento, realizam certas __aproximações__. Tais aproximações podem gerar __erros__.
 
-Isso ocorre por motivos de ___conversão de um sistema numérico__, de binário para decimal, ou __arrendondamento__ ou __truncamento__.
+Isso ocorre por motivos de __conversão de um sistema numérico__, de binário para decimal, ou __arrendondamento__ ou __truncamento__.
+## 1.3 Medidas de erro
+### 1.3.1 Erro absoluto
+O erro absoluto é definido por
+$$E_{abs}=|a_{ex}-a_{aprox}|$$
+onde $a_{ex}$ é o valor exato da grandeza e $a_{ex}$ representa o valor da grandeza numérica.
+### 1.3.2 Erro relativo
+Definimos erro relativo como:
+$$E_{rel}=|\frac{a_{ex}-a_{aprox}}{a_{ex}}|$$
+$$E_{rel}=\frac{E_{abs}}{|a_{ex}|}$$
+onde é estimada a "qualidade" da aferição em relação ao valor verdadeiro da medida. Dessa forma, levamos em considerção a ordem de grandeza do valor calculado em um intervalo de 0 a 1.
